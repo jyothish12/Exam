@@ -1,0 +1,23 @@
+body{
+background-image: url(./img.jpg);
+text-align: center;
+
+}
+form {
+display: inline-block;
+border: 10px solid black;
+padding: 30px;
+background-color: black;
+vertical-align: middle;
+text-align: justify;
+}
+label{
+    color: aliceblue;
+    font-display: white;
+    display: inline-block;
+    
+
+}
+.loginbox{
+
+}
